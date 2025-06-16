@@ -1,0 +1,10 @@
+# Ignore raw videos and frames
+raw_videos/
+frames/
+
+# Optional: ignore other unnecessary big files
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.png
