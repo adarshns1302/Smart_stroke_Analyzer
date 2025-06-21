@@ -1,6 +1,8 @@
-# Ignore raw videos and frames
-raw_videos/
-frames/
+# Ignore only specific subfolders inside data/
+data/raw_videos/
+data/frames/
+data/autolabeled_frames/
+data/labeled_frames/
 
 # Optional: ignore other unnecessary big files
 *.mp4
@@ -8,3 +10,5 @@ frames/
 *.mov
 *.jpg
 *.png
+*.DS_Store
+__pycache__/
