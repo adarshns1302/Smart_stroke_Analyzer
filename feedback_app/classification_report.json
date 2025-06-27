@@ -1,0 +1,81 @@
+{
+    "back_foot_punch": {
+        "precision": 0.606312292358804,
+        "recall": 0.8508158508158508,
+        "f1-score": 0.7080504364694471,
+        "support": 429.0
+    },
+    "cover_drive": {
+        "precision": 0.46170254023657165,
+        "recall": 1.0,
+        "f1-score": 0.6317325550543911,
+        "support": 2381.0
+    },
+    "front_foot_defence": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 527.0
+    },
+    "leg_glance": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 284.0
+    },
+    "on_drive": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 257.0
+    },
+    "pull": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 401.0
+    },
+    "reverse_sweep": {
+        "precision": 0.5081967213114754,
+        "recall": 0.07692307692307693,
+        "f1-score": 0.1336206896551724,
+        "support": 403.0
+    },
+    "square_cut": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 345.0
+    },
+    "square_drive": {
+        "precision": 1.0,
+        "recall": 0.05609284332688588,
+        "f1-score": 0.10622710622710622,
+        "support": 517.0
+    },
+    "straight_drive": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 189.0
+    },
+    "sweep": {
+        "precision": 1.0,
+        "recall": 0.8294117647058824,
+        "f1-score": 0.9067524115755627,
+        "support": 680.0
+    },
+    "accuracy": 0.5254950881022922,
+    "macro avg": {
+        "precision": 0.3251101412642592,
+        "recall": 0.25574941234288145,
+        "f1-score": 0.22603483627106177,
+        "support": 6413.0
+    },
+    "weighted avg": {
+        "precision": 0.4305668174666659,
+        "recall": 0.5254950881022922,
+        "f1-score": 0.3950209016921455,
+        "support": 6413.0
+    }
+}

@@ -3,6 +3,11 @@ data/raw_videos/
 data/frames/
 data/autolabeled_frames/
 data/labeled_frames/
+data/final_dataset/
+venv310/
+# IDE configs
+*.vscode/
+*.idea/
 
 # Optional: ignore other unnecessary big files
 *.mp4
@@ -11,4 +16,5 @@ data/labeled_frames/
 *.jpg
 *.png
 *.DS_Store
+*.zip
 __pycache__/
