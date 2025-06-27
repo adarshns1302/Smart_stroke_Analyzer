@@ -71,7 +71,7 @@ Here’s what you get:
 # 📄 License:
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
 
-🌟 Acknowledgments
+# 🌟 Acknowledgments
 1. Ultralytics YOLOv8
 2. Google MediaPipe
 3. PyTorch
