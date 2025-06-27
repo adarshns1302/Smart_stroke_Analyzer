@@ -1,7 +1,7 @@
-<span style="font-size:50px">🏏 Smart Stroke Analyzer</span>
+# 🏏 Smart Stroke Analyzer
 **A computer-vision-powered cricket batting stroke analysis system using YOLOv8 and MediaPipe, with AI-driven pose comparison and detailed player feedback.**
 
-<span style="font-size:50px">🚀 Project Overview</span>
+# 🚀 Project Overview
 **Smart Stroke Analyzer** is an intelligent computer vision application designed to analyze cricket batting strokes from raw video footage. It uses:
 
 - **YOLOv8** for ball and batsman detection
@@ -13,7 +13,7 @@
 This end-to-end pipeline helps players, coaches, and enthusiasts improve batting technique by analyzing key moments 
 like the bat-ball contact point, visualizing pose, and providing performance insights.
 
-<span style="font-size:50px">✨ Features:-</span>
+# ✨ Features:-
 ✅ Automatic detection of ball, batsman, and contact frame  
 ✅ Trajectory tracking of the ball  
 ✅ Precise pose estimation on contact frame  
@@ -21,7 +21,7 @@ like the bat-ball contact point, visualizing pose, and providing performance ins
 ✅ AI-based pose feedback comparing player pose with reference poses   
 ✅ Easy-to-use Streamlit interface with re-encoded playback  
 
-<span style="font-size:50px">🛠️ Installation</span>
+# 🛠️ Installation
 **Clone the repository:**
 
 ```bash
@@ -40,7 +40,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-<span style="font-size:50px">🏃 Usage</span>
+# 🏃 Usage
 1. Place your input videos in data/raw_videos/.
 2. Run the Streamlit app:
 ```bash
@@ -48,7 +48,7 @@ cd feedback_app
 streamlit run app.py
 ```
 
-<span style="font-size:50px">📊 Example Results</span>
+# 📊 Example Results
 Here’s what you get:
 1. Annotated video with ball & batsman detection
 2. Trajectory tracking overlay
@@ -62,13 +62,13 @@ Here’s what you get:
 ![image](https://github.com/user-attachments/assets/16764e23-1789-4b65-959a-98e00e22906e)
 ![image](https://github.com/user-attachments/assets/29f7be2f-cd82-478b-b3b5-d2311bd4a63c)
 
-<span style="font-size:50px">🤝 Contributing</span>
+# 🤝 Contributing
 **Pull requests are welcome! Feel free to open issues for:**
 1. Bugs
 2. Feature suggestions
 3. Code improvements
 
-<span style="font-size:50px">📄 License:</span>
+# 📄 License:
 This project is licensed under the MIT License.
 
 🌟 Acknowledgments
