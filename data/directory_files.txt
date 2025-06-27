@@ -1,0 +1,6 @@
+create various folder within data/ like:
+raw_videos/                    //containing raw videos for dataset generation
+labelled_frames/               //to separate uploaded frames on roboflow from raw frames extracted from raw videos to remove mixup
+frames/                        //contains all the raw frames extracted from raw_videos for ithe dataset
+final_dataset/                 //contains combination of labelled and autolabelled data
+autolabelled_frames            //contains frames that are labelled automatically using python script and the model for labelling frames
