@@ -1,7 +1,7 @@
-#🏏 Smart Stroke Analyzer
+<span style="font-size:20px">🏏 Smart Stroke Analyzer</span>
 **A computer-vision-powered cricket batting stroke analysis system using YOLOv8 and MediaPipe, with AI-driven pose comparison and detailed player feedback.**
 
-#🚀 Project Overview
+<span style="font-size:20px">🚀 Project Overview</span>
 **Smart Stroke Analyzer** is an intelligent computer vision application designed to analyze cricket batting strokes from raw video footage. It uses:
 
 - **YOLOv8** for ball and batsman detection
@@ -13,7 +13,7 @@
 This end-to-end pipeline helps players, coaches, and enthusiasts improve batting technique by analyzing key moments 
 like the bat-ball contact point, visualizing pose, and providing performance insights.
 
-#✨ Features:-
+<span style="font-size:20px">✨ Features:-</span>
 ✅ Automatic detection of ball, batsman, and contact frame  
 ✅ Trajectory tracking of the ball  
 ✅ Precise pose estimation on contact frame  
@@ -21,7 +21,7 @@ like the bat-ball contact point, visualizing pose, and providing performance ins
 ✅ AI-based pose feedback comparing player pose with reference poses   
 ✅ Easy-to-use Streamlit interface with re-encoded playback  
 
-#🛠️ Installation
+<span style="font-size:20px">🛠️ Installation</span>
 **Clone the repository:**
 
 ```bash
@@ -32,7 +32,7 @@ cd Smart_stroke_Analyzer
 Set up a virtual environment:
 ```bash
 python -m venv venv
-venv\Scripts\activate  # on Windows
+venv\Scripts\activate   on Windows
 ```
 
 Install dependencies:
@@ -40,7 +40,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-#🏃 Usage
+<span style="font-size:20px">🏃 Usage</span>
 1. Place your input videos in data/raw_videos/.
 2. Run the Streamlit app:
 ```bash
@@ -48,7 +48,7 @@ cd feedback_app
 streamlit run app.py
 ```
 
-#📊 Example Results
+<span style="font-size:20px">📊 Example Results</span>
 Here’s what you get:
 1. Annotated video with ball & batsman detection
 2. Trajectory tracking overlay
@@ -62,16 +62,16 @@ Here’s what you get:
 ![image](https://github.com/user-attachments/assets/16764e23-1789-4b65-959a-98e00e22906e)
 ![image](https://github.com/user-attachments/assets/29f7be2f-cd82-478b-b3b5-d2311bd4a63c)
 
-#🤝 Contributing
+<span style="font-size:20px">🤝 Contributing</span>
 **Pull requests are welcome! Feel free to open issues for:**
 1. Bugs
 2. Feature suggestions
 3. Code improvements
 
-#📄 License:
+<span style="font-size:20px">📄 License:</span>
 This project is licensed under the MIT License.
 
-#🌟 Acknowledgments
+🌟 Acknowledgments
 1. Ultralytics YOLOv8
 2. Google MediaPipe
 3. PyTorch
