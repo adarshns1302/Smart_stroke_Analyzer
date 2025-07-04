@@ -75,4 +75,4 @@ This project is licensed under the [MIT](https://choosealicense.com/licenses/mit
 1. Ultralytics YOLOv8
 2. Google MediaPipe
 3. PyTorch
-4.All open-source contributors who made this work possible!
+4. All open-source contributors who made this work possible!
